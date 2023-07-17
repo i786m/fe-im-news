@@ -1,0 +1,1 @@
+The planning for this frontend project can be found [here](https://www.figma.com/file/yapZgeJOWhMMfqLPr7nAzy/im-news-frontend-plan?type=whiteboard&node-id=1%3A390&t=KSdRFDHVtGekk2nj-1).
